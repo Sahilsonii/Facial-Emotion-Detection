@@ -2,7 +2,7 @@
 
 This repository contains a project for real-time facial emotion detection using OpenCV and a Convolutional Neural Network (CNN) model trained with Keras. The system can be used in two modes: training the model on a dataset of facial expressions and displaying the detected emotions in real-time using a webcam feed.
 
-[![Picture5.png](https://i.postimg.cc/nzqysW22/Picture5.png)](https://postimg.cc/phXG4qg5)
+[![Picture5.png](https://i.postimg.cc/pdF2HwSm/Picture5.png)](https://postimg.cc/2qCpdKrY)
 
 ## Table of Contents
 
