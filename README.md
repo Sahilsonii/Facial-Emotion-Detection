@@ -34,6 +34,9 @@ To get started with this project, follow these steps:
      ```
 4. Obtain the Haar cascade XML file for face detection:
    - Download the `haarcascade_frontalface_default.xml` file from the [OpenCV GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+     
+5. Download "fer2013.csv" fole from Internet and paste that file to "src" folder .
+     
 
 ## Dependencies
 
